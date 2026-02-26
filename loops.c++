@@ -6,4 +6,6 @@ int main() {
         cout << "Square of " << i << " is " << i * i << endl;
     }
     return 0;
+    
+
 }
